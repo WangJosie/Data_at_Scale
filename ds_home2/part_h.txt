@@ -1,0 +1,4 @@
+10080_txt_crude|10080_txt_crude|1828
+10080_txt_crude|17035_txt_earn|19
+17035_txt_earn|10080_txt_crude|19
+17035_txt_earn|17035_txt_earn|144
